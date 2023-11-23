@@ -30,7 +30,7 @@ public class Ejemplo05 {
         int resultado;
         // numero <-- 4
        
-        // 8. potencia <-- 3
+        // 8. potencia <-- 3...
         
         // 9. resultado <-- 1git push
         
