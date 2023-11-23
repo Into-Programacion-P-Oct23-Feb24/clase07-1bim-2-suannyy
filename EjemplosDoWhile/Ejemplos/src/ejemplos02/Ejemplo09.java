@@ -37,9 +37,13 @@ public class Ejemplo09 {
         do {
             
             
-            // agrego valor al acumulador
+            System.out.println("ingrese nombre del estudiante");
+            int numero=entrada.nextInt();
+             System.out.println("ingrese nombre");
+             nombre=entrada.nextLine();
+              System.out.println("ingrese nota");
+              nota=entrada.nextInt();
             suma = suma + nota;
-            // agrego una unidad al contador para luego sacar el promedio
             contador_calificaciones = contador_calificaciones + 1;
             
             
