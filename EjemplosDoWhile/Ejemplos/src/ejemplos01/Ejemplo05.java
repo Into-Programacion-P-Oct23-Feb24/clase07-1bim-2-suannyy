@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *el codigo define 3 variables' este permite que se presente el resultado de una
+potencia ya definida' en ese numero es la base y la potencia es el exponente.
  */
 package ejemplos01;
 
