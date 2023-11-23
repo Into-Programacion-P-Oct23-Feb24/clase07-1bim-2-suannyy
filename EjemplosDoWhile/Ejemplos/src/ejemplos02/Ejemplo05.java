@@ -32,7 +32,8 @@ public class Ejemplo05 {
        
         // 8. potencia <-- 3
         
-        // 9. resultado <-- 1
+        // 9. resultado <-- 1git push
+        
         resultado = 1;
 
         int contador = 1;
